@@ -6,3 +6,6 @@ Click the slides below for the presentation ## PDF will be uploaded on Dec 30, 2
 <a href="https://github.com/raghurama123/NumQM_Basic/blob/main/pdf/NIUS30Dec2021_NumQM.pdf">
 <img src="img/NumQM.png"  height="400">
 </a>
+
+You can access the Ipython notebooks interactively at [https://mybinder.org/v2/gh/raghurama123/NumQM_Basic/HEAD
+](https://mybinder.org/v2/gh/raghurama123/NumQM_Basic/HEAD)
